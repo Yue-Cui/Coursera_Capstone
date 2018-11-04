@@ -1,0 +1,9 @@
+For this capstone project, I will be using foursquare data to find out about the merchants around Los Angelas and organise them based
+on their zip codes. Then I will scrape the data from http://www.laalmanac.com/communications/cm02_communities.php to determine the
+neighborhood of merchants based on their zip codes. 
+
+After both the merchants data and the zip codes are collected, I will find out the optimal number of clusters using the elbow method, and
+then explore the different areas using visualization.
+
+After I find out the characteristics of different areas, I will be able to makes recommendations about the prime locations for retail 
+stores and restaurants.
